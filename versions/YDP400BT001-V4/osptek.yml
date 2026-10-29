@@ -1,0 +1,10 @@
+id: YDP400BT001-V4
+category: displays
+size: "4"
+panel: tft
+resolution: 720x720
+interface: [mipi, i2c]
+driver: ST7703I
+touch: GT911
+outline: 74.33 x 78.38 mm
+active_area: 71.93 x 71.93 mm
