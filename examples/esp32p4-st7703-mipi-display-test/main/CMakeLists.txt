@@ -1,0 +1,24 @@
+idf_component_register(
+    SRCS
+        "main.cc"
+        "AppInit/AppInit.cc"
+        "AppInit/lcd_init.cc"
+        "AppInit/DisplayTest.cc"
+    INCLUDE_DIRS
+        "."
+        "AppInit"
+    EMBED_FILES
+        "AppInit/boot_logo.rgb"
+    REQUIRES
+        nvs_flash
+        esp_driver_gpio
+        esp_hw_support
+        esp_lcd
+        esp_lcd_st7703
+        espressif__esp_lvgl_port
+        lvgl
+        esp_timer
+        esp_system
+        log
+        freertos
+)
