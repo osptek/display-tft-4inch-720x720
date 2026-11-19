@@ -44,6 +44,8 @@
 | ---- | ---- |
 | Datasheet | [`ST_7703_DS_v01_20160128_9142b0490b.pdf`](./datasheets/ST_7703_DS_v01_20160128_9142b0490b.pdf) |
 | Datasheet | [`YDP400B001-V1.pdf`](./datasheets/YDP400B001-V1.pdf) |
+| Adapter materials | [`YDP400B001-V1转接板V1.1(1).pdf`](./adapter/YDP400B001-V1%E8%BD%AC%E6%8E%A5%E6%9D%BFV1.1%281%29.pdf) |
+| Adapter materials | [`YDP400B001-V1转接板V1.1.step`](./adapter/YDP400B001-V1%E8%BD%AC%E6%8E%A5%E6%9D%BFV1.1.step) |
 
 ## Repository layout
 
@@ -55,7 +57,8 @@ display-tft-4inch-720x720/ # repo root (nav: ../../README_EN.md; sample projects
         ├── README_EN.md
         ├── osptek.yml
         ├── images/
-        └── datasheets/       # product datasheet + driver/touch IC datasheets
+        ├── datasheets/       # product datasheet + driver/touch IC datasheets
+        └── adapter/          # adapter board materials + photos
 ```
 
 ## Buy

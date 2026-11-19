@@ -44,6 +44,8 @@
 | ---- | ---- |
 | 规格文档 | [`ST_7703_DS_v01_20160128_9142b0490b.pdf`](./datasheets/ST_7703_DS_v01_20160128_9142b0490b.pdf) |
 | 规格文档 | [`YDP400B001-V1.pdf`](./datasheets/YDP400B001-V1.pdf) |
+| 转接板资料 | [`YDP400B001-V1转接板V1.1(1).pdf`](./adapter/YDP400B001-V1%E8%BD%AC%E6%8E%A5%E6%9D%BFV1.1%281%29.pdf) |
+| 转接板资料 | [`YDP400B001-V1转接板V1.1.step`](./adapter/YDP400B001-V1%E8%BD%AC%E6%8E%A5%E6%9D%BFV1.1.step) |
 
 ## 仓库结构
 
@@ -55,7 +57,8 @@ display-tft-4inch-720x720/ # 仓库根（导航见 ../../README.md，示例工�
         ├── README_EN.md
         ├── osptek.yml
         ├── images/
-        └── datasheets/       # 产品规格书 + 驱动/触摸 IC 数据手册
+        ├── datasheets/       # 产品规格书 + 驱动/触摸 IC 数据手册
+        └── adapter/          # 转接板资料 + 转接板图片
 ```
 
 ## 购买链接
