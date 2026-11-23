@@ -44,6 +44,7 @@
 | ---- | ---- |
 | 规格文档 | [`ST_7703_DS_v01_20160128_9142b0490b.pdf`](./datasheets/ST_7703_DS_v01_20160128_9142b0490b.pdf) |
 | 规格文档 | [`YDP400B001-V1.pdf`](./datasheets/YDP400B001-V1.pdf) |
+| 转接板资料 | [`未标题-1.png`](./adapter/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png) |
 | 转接板资料 | [`YDP400B001-V1转接板V1.1(1).pdf`](./adapter/YDP400B001-V1%E8%BD%AC%E6%8E%A5%E6%9D%BFV1.1%281%29.pdf) |
 | 转接板资料 | [`YDP400B001-V1转接板V1.1.step`](./adapter/YDP400B001-V1%E8%BD%AC%E6%8E%A5%E6%9D%BFV1.1.step) |
 
